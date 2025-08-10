@@ -9,5 +9,5 @@ class Solution(object):
         if diff in dic0:
             #return index
             return [dic0[diff],i]
-        # if false store index
+        # if false store index.
         dic0[num] = i 
